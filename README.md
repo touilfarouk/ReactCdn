@@ -6,4 +6,4 @@ This revolutionary template is designed to simplify your React experience and ma
 
 But that's not all. The ReactCdn template offers the option to turn your application into an offline working mode. No more stressing about internet connectivity or slow loading times. With this template, you can work on your React project anytime, anywhere.
 
-Don't let React stress you out anymore. Try the ReactCdn template today and take your development expirience to the next level.
+Don't let React stress you out anymore. Try the ReactCdn template today and take your development experience to the next level.
